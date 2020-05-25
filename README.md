@@ -1,5 +1,5 @@
 # Packet_Sniffer
-Packet sniffer using scapy and scapy-http
+Packet sniffer, capture and analyze network traffic by using scapy and scapy-http
 * using python 2.7
 
 ## installing scapy-http
